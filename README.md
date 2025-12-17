@@ -43,3 +43,7 @@ private bool IsValidUsername(string username)
 ```
 
 По хорошему валидатор должен быть отдельным классом но что бы не нарушать принцип YAGNI сделаю реализацию в самом классе 
+
+
+
+Created by SandvichLover
